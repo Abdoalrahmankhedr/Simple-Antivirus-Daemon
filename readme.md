@@ -8,6 +8,11 @@ It monitors a directory for changes, scans files for suspicious extensions or ke
 
 The project also includes a Makefile to simplify running the scripts and a cron-based version for scheduled scanning.
 
+Use this command to install the project local:
+```bash
+curl -fsSL https://raw.githubusercontent.com/Abdoalrahmankhedr/Simple-Antivirus-Daemon/main/install.sh | bash
+```
+
 ## 2. Project Structure
 
 ### 2.1 Main Files and Directories
